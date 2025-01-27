@@ -2,7 +2,7 @@
 
 ![Welcome Banner](https://via.placeholder.com/800x200?text=Hello%2C+World!+🚀)  
 
-I'm **[sara]**, a creative soul and tech enthusiast:  
+I'm **sara**, a creative soul and tech enthusiast:  
 🎹 Pianist diving into the world of **coding and security**  
 🔒 Passionate about **automation in WAF and security**  
 💪 TRX fan who loves long walks  
@@ -18,8 +18,8 @@ I'm **[sara]**, a creative soul and tech enthusiast:
 ---
 
 ## 📫 Let’s Connect  
-- 📧 Email: [sara.moshfeghi@gmail.com]  
-- 🌐 LinkedIn: [in/sara-moshfeghi/]  
+- 📧 Email: sara.moshfeghi@gmail.com  
+- 🌐 LinkedIn: in/sara-moshfeghi/  
 
 ---
 
